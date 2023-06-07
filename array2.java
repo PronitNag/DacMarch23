@@ -10,7 +10,7 @@ class array2{
             }
         }
         if(isInArray){
-            System.out.println("The value is present in the array");
+            System.out.println("The value is present in the array=33");
         }
         else{
             System.out.println("The value is not present in the array");
