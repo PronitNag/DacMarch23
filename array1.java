@@ -5,6 +5,6 @@ class array1{
         for(float element:marks){
             sum = sum + element;
         }
-        System.out.println("The value of sum is:32 " + sum);
+        System.out.println("The value of sum is: 45 " + sum);
 	}
 }
